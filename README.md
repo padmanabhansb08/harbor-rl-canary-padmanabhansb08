@@ -1,7 +1,7 @@
 # Harbor RL Submission — padmanabhansb08 (@padmanabhansb08)
 
 ## 1. Loom Walkthrough Video
-- **Video URL:** [Watch 5-Minute Walkthrough](TODO-paste-your-loom-or-unlisted-youtube-link)
+- **Video URL:** [Watch 5-Minute Walkthrough](https://youtu.be/-8sxs2Q8jrs)
   *(Make sure link sharing is set to "Anyone with the link can view")*
 
 ## 2. Task & Calibration Summary
