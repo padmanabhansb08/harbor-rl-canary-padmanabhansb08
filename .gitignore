@@ -1,0 +1,5 @@
+.env
+.venv/
+*.key
+__pycache__/
+jobs/
